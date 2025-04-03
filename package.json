@@ -1,7 +1,8 @@
 {
   "name": "pdf-functions",
   "version": "1.0.0",
-  "main": "paginas_pdf.js",
+  "type": "module",
+  "main": "functions/paginas_pdf.js",
   "dependencies": {
     "pdf-lib": "^1.17.1"
   }
